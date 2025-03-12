@@ -13,15 +13,7 @@ A **React.js** project that fetches sales data from an API and displays it as a 
 
 ## 🖥️ Demo  
 
-<img src="screenshot.png" width="600">
-
-## 🚀 Installation  
-
-```sh
-git clone https://github.com/seu-usuario/first-react-project.git
-cd first-react-project
-npm install
-npm start
+<img src="src\Screenshot.png" width="600">
 
 ## 🔧 Technologies
 
