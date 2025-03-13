@@ -14,6 +14,7 @@ A **React.js** project that fetches sales data from an API and displays it as a 
 ## 🖥️ Demo  
 
 <img src="src\Screenshot.png" width="600">
+Take a Look --> https://firstreactproject-ivory.vercel.app/
 
 ## 🔧 Technologies
 
